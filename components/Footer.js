@@ -4,7 +4,9 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        <img src="/logo-netlify.svg" alt="Netlify Logo" className={styles.logo} />
+        Made for students by students
+        Copyright © 2022. All Rights Reserved.
+          <img src="https://github.com/MrKrishnaAgarwal/next-netlify-starter/blob/main/pages/student%20street.jpg" alt="Student Street Logo" className={styles.logo} />
       </footer>
     </>
   )

@@ -8,8 +8,15 @@ export default function Footer() {
         alt="Student Street Logo"
         className={styles.logo}
       />
-      <p>Made for students by students</p>
-      <p>Copyright © 2023 | Krishna Agarwal | All Rights Reserved</p>
+      <div>
+        Student Street Logo
+      </div>
+      <div>
+        Made for students by students
+      </div>
+      <div>
+        Copyright © 2023 | Krishna Agarwal | All Rights Reserved
+      </div>
     </footer>
   );
 }

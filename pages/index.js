@@ -9,7 +9,7 @@ export default function Home() {
         <title>Student Street</title>
         <link rel="icon" href="https://github.com/MrKrishnaAgarwal/next-netlify-starter/blob/main/pages/student%20street.jpg" />
       </Head>
-        <img src="https://github.com/MrKrishnaAgarwal/next-netlify-starter/blob/main/pages/student%20street.jpg" alt="Student Street Logo" className="logo" />
+        <img src="https://media.discordapp.net/attachments/1048479953592795156/1154312414494478376/student_street.jpg?width=802&height=580" alt="Student Street Logo" className="logo" />
         <br />
         <h2 className="title">
             Welcome to <a href="https://studentstreet.in">Student Street</a>
